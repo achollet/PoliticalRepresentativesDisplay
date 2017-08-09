@@ -1,0 +1,4 @@
+namespace Base.DAL.Entities
+{
+
+}

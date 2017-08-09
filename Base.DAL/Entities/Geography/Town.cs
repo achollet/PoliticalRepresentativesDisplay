@@ -20,10 +20,10 @@ namespace Base.DAL.Entities
         public string Name { get; set; }
 
         [Required]
+        public int TownType { get; set; }
+
+        [Required]
         [ForeignKey("DistrictId")]
         public int DistrictId { get; set; }
-
-        [ForeignKey("TownTypeId")]
-        public int TownTypeId { get; set; }
     }
 }

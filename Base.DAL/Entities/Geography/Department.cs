@@ -19,6 +19,7 @@ namespace Base.DAL.Entities
 
         public virtual ICollection<District> Districts { get; set; }
 
+        [Required]
         [ForeignKey("RegionId")]
         public Region RegionId { get; set; }
     }
