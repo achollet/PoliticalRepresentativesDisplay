@@ -1,6 +1,6 @@
 namespace Base.DAL.Entities
 {
-    public class Representant
+    public class Representant : Candidat
     {
         
     }
