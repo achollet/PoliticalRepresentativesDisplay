@@ -3,15 +3,15 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Base.DAL.Entities
 {
-    public class Candidat
+    public class Candidature
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
 
         [Required]
-        [ForeignKey("ElectionId")]
-        public int ElectionId { get; set; }
+        [ForeignKey("ElectionResultId")]
+        public int ElectionResultId { get; set; }
 
         [Required]
         [ForeignKey("PoliticianId")]

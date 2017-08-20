@@ -25,6 +25,10 @@ namespace Base.DAL.Entities
         
         [Required]
         public bool IsOversea { get; set; }
-        //public List<Department> Departments { get; set; }     
+
+        [Required]
+        [ForeignKey("CountryId")]
+        public int CountryId { get; set; }
+        public List<Department> Departments { get; set; }     
     }
 }

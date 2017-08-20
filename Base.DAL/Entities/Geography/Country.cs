@@ -5,18 +5,25 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Base.DAL.Entities
 {
-    public class Election
+    public class Country
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
 
         [Required]
-        [ForeignKey("ElectionTypeId")]
-        public int ElectionTypeId { get; set; }
+        [MaxLength(2)]
+        public string CodeIso2 { get; set; }
 
         [Required]
-        public bool IsLocal { get; set; }
-        public List<Candidature> Candidatures { get; set; }
+        [MaxLength(3)]
+        public string CodeIso3 { get; set; }
+
+        [Required]
+        public string Name { get; set; }
+
+        public DateTime CreationDate { get; set; }
+
+        public List<Region> Regions { get; set; }
     }
 }

@@ -4,34 +4,31 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Base.DAL.Entities
 {
-    public class ElectionResult
+    public class Term
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
 
         [Required]
-        [Range(1,2)]
-        public int Round { get; set; }
+        [DataType(DataType.Date)]
+        [DisplayFormat(DataFormatString = "{0:yyyy-MM-dd}", ApplyFormatInEditMode = true)]        
+        public DateTime StartingDate { get; set; }
 
-        [Required]
         [DataType(DataType.Date)]
         [DisplayFormat(DataFormatString = "{0:yyyy-MM-dd}", ApplyFormatInEditMode = true)]
-        public DateTime Date { get; set; }
-
+        public DateTime EndingDate { get; set; }
+        
         [Required]
-        public long NumberOfVoices { get; set; }
+        [ForeignKey("TermTypeId")]
+        public int TermTypeId { get; set; }
 
         [Required]
         [ForeignKey("ElectionId")]
         public int ElectionId { get; set; }
         
         [Required]
-        [ForeignKey("TownId")]
-        public int TownId { get; set; }
-        
-        [Required]
-        [ForeignKey("CandidatureId")]
-        public int CandidatureId { get; set; }
+        [ForeignKey("PoliticianId")]
+        public int PoliticianId { get; set; }
     }
 }

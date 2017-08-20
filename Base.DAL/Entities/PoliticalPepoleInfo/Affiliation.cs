@@ -22,7 +22,7 @@ namespace Base.DAL.Entities
         public int PoliticalPartyId { get; set; }
 
         [Required]
-        [ForeignKey("PoliticalIdId")]
-        public int PoliticalId { get; set; }
+        [ForeignKey("PoliticiandId")]
+        public int PoliticianId { get; set; }
     }
 }

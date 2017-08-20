@@ -1,21 +1,16 @@
-using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Base.DAL.Entities
 {
-    public class District
+    public class PartyType
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
 
         [Required]
+        [MaxLength(250)]
         public string Label { get; set; }
-        
-        [Required]
-        [ForeignKey("DepartmentId")]
-        public int DepartmentId { get; set; }
-        public List<Town> Towns { get; set; }
     }
 }

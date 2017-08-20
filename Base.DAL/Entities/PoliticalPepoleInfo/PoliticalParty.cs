@@ -16,9 +16,15 @@ namespace Base.DAL.Entities
 
         [Required]
         [DataType(DataType.Date)]
+        [DisplayFormat(DataFormatString = "{0:yyyy-MM-dd}", ApplyFormatInEditMode = true)]        
         public DateTime DateOfCreation { get; set; }
 
         [DataType(DataType.Date)]
+        [DisplayFormat(DataFormatString = "{0:yyyy-MM-dd}", ApplyFormatInEditMode = true)]        
         public DateTime DateOfTermination { get; set; }
+
+        [Required]
+        [ForeignKey("PartyTypeId")]
+        public int PartyTypeId { get; set; }
     }
 }

@@ -21,9 +21,11 @@ namespace Base.DAL.Entities
 
         [Required]
         [DataType(DataType.Date)]
+        [DisplayFormat(DataFormatString = "{0:yyyy-MM-dd}", ApplyFormatInEditMode = true)]
         public DateTime DateOfBirth { get; set; }
 
         [DataType(DataType.Date)]
+        [DisplayFormat(DataFormatString = "{0:yyyy-MM-dd}", ApplyFormatInEditMode = true)]        
         public DateTime DateOfDeath { get; set; }
 
         [Column("TownOfBirthId")]
@@ -31,5 +33,9 @@ namespace Base.DAL.Entities
         public int TownId { get; set; }
 
         public List<Affiliation> Affiliations { get; set; }
+
+        public List<Candidature> Candidatures { get; set; }
+
+        public List<Term> Terms { get; set; }
     }
 }
