@@ -20,7 +20,6 @@ namespace Base.DAL.Context
             modelBuilder.Entity<District>().ToTable("District");
             modelBuilder.Entity<Town>().ToTable("Town");
             modelBuilder.Entity<TownType>().ToTable("TownType");
+        }
     }
-
-    
 }
