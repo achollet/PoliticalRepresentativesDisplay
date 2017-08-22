@@ -3,7 +3,7 @@ using Base.DAL.Entities;
 
 namespace Base.DAL.Context
 {
-    public class ElectionContext : DbContext
+    public class ElectionContext : Microsoft.EntityFrameworkCore.DbContext
     {
         public DbSet<Election> Elections { get; set; }
         public DbSet<ElectionType> ElectionTypes { get; set; }

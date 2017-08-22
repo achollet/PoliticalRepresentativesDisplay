@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Base.DAL.Context
 {
-    public class GeographyContext : DbContext
+    public class GeographyContext : Microsoft.EntityFrameworkCore.DbContext
     {
         public DbSet<Country> Countries { get; set; }
         public DbSet<Region> Regions { get; set; }

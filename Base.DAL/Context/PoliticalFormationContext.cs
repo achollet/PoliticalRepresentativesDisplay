@@ -3,7 +3,7 @@ using Base.DAL.Entities;
 
 namespace Base.DAL.Context
 {
-    public class PoliticalFormationContext : DbContext
+    public class PoliticalFormationContext : Microsoft.EntityFrameworkCore.DbContext
     {
         public DbSet<PoliticalParty> PoliticalFormations { get; set; }
         public DbSet<PartyType> FormationTypes { get; set; }
