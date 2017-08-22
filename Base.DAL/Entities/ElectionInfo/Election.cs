@@ -17,6 +17,8 @@ namespace Base.DAL.Entities
 
         [Required]
         public bool IsLocal { get; set; }
-        public List<Candidature> Candidatures { get; set; }
+        
+        public IEnumerable<Candidature> Candidatures { get; set; }
+        public IEnumerable<ElectionResult> ElectionResults { get; set; }
     }
 }

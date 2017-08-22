@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
@@ -10,11 +11,9 @@ namespace Base.DAL.Entities
         public int Id { get; set; }
 
         [Required]
-        [ForeignKey("ElectionResultId")]
-        public int ElectionResultId { get; set; }
-
-        [Required]
         [ForeignKey("PoliticianId")]
         public int PoliticianId { get; set; }
+
+        public IEnumerable<ElectionResult> ElectionResults { get; set; }
     }
 }

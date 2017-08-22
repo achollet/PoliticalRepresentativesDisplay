@@ -16,6 +16,6 @@ namespace Base.DAL.Entities
         [Required]
         [ForeignKey("DepartmentId")]
         public int DepartmentId { get; set; }
-        public List<Town> Towns { get; set; }
+        public IEnumerable<Town> Towns { get; set; }
     }
 }

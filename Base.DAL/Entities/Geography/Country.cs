@@ -24,6 +24,6 @@ namespace Base.DAL.Entities
 
         public DateTime CreationDate { get; set; }
 
-        public List<Region> Regions { get; set; }
+        public IEnumerable<Region> Regions { get; set; }
     }
 }

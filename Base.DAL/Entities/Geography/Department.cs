@@ -21,7 +21,7 @@ namespace Base.DAL.Entities
         [Required]
         [ForeignKey("RegionId")]
         public int RegionId { get; set; }
-        public List<District> Districts { get; set; }
-        public List<Town> Towns { get; set; }
+        public IEnumerable<District> Districts { get; set; }
+        public IEnumerable<Town> Towns { get; set; }
     }
 }
