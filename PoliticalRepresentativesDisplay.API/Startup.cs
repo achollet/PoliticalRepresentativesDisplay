@@ -31,6 +31,10 @@ namespace PoliticalRepresentativesDisplay.API
         {
             services.AddDbContext<ElectionContext>(options =>
         options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<GeographyContext>(options =>
+        options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<PoliticalFormationContext>(options =>
+        options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             // Add framework services.
             services.AddMvc();
         }
