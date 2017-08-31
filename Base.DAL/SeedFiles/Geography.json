@@ -5,19 +5,345 @@
         "Name": "FRANCE",
         "Regions": [
             {
-                "Code": ,
-                "Name":,
-                "Acronym":,
-                "IsNew":,
-                "IsOversea":,
-                "Departments":
-                [
+                "CodeInsee": 84,
+                "CodeISO": "FR-ARA",
+                "Name": "Auvergne-Rhône-Alpes",
+                "IsNew": true,
+                "IsOversea": false,
+                "Departments": [
                     {
-                        
+                        "Name": "Ain"
+                    },
+                    {
+                        "Name": "Allier"
+                    },
+                    {
+                        "Name": "Ardèche"
+                    },
+                    {
+                        "Name": "Cantal"
+                    },
+                    {
+                        "Name": "Drôme"
+                    },
+                    {
+                        "Name": "Isère"
+                    },
+                    {
+                        "Name": "Loire"
+                    },
+                    {
+                        "Name": "Haute-Loire"
+                    },
+                    {
+                        "Name": "Puy-de-Dôme"
+                    },
+                    {
+                        "Name": "Rhône"
+                    },
+                    {
+                        "Name": "Lyon Métropole"
+                    },
+                    {
+                        "Name": "Savoie"
+                    },
+                    {
+                        "Name": "Haute-Savoie"
                     }
                 ]
             },
-            {}
+            {
+                "CodeInsee": 27,
+                "CodeISO": "FR-BFC",
+                "Name": "Bourgogne-Franche-Comté",
+                "IsNew": true,
+                "IsOversea": false,
+                "Departments": [
+                    {
+                        "Name": "Côte-d'Or"
+                    },
+                    {
+                        "Name": "Doubs"
+                    },
+                    {
+                        "Name": "Jura"
+                    },
+                    {
+                        "Name": "Nièvre"
+                    },
+                    {
+                        "Name": "Haute-Saône"
+                    },
+                    {
+                        "Name": "Sa$one-et-Loire"
+                    },
+                    {
+                        "Name": "Yonne"
+                    },
+                    {
+                        "Name": "Territoire de Belfort"
+                    }
+                ]
+            },
+            {
+                "CodeInsee": 53,
+                "CodeISO": "FR-BRE",
+                "Name": "Bretagne",
+                "IsNew": true,
+                "IsOversea": false,
+                "Departments": [
+                    {
+                        "Name": "Côtes-d'Armor"
+                    },
+                    {
+                        "Name": "Finistère"
+                    },
+                    {
+                        "Name": "Ille-et-Vilaine"
+                    },
+                    {
+                        "Name": "Morbihan"
+                    }
+                ]
+            },
+            {
+                "CodeInsee": 24,
+                "CodeISO": "FR-CVL",
+                "Name": "Centre-Val de Loire",
+                "IsNew": true,
+                "IsOversea": false,
+                "Departments": [
+                    {
+                        "Name": "Cher"
+                    },
+                    {
+                        "Name": "Eure-et-Loir"
+                    },
+                    {
+                        "Name": "Indre"
+                    },
+                    {
+                        "Name": "Indre-et-Loire"
+                    },
+                    {
+                        "Name": "Loir-et-Cher"
+                    },
+                    {
+                        "Name": "Loiret"
+                    }
+                ]
+            },
+            {
+                "CodeInsee": 94,
+                "CodeISO": "FR-CRO",
+                "Name": "Corse",
+                "IsNew": true,
+                "IsOversea": false,
+                "Departments": [
+                    {
+                        "Name": "Corse-du-Sud"
+                    },
+                    {
+                        "Name": "Haute-Corse"
+                    }
+                ]
+            },
+            {
+                "CodeInsee": 44,
+                "CodeISO": "FR-GES",
+                "Name": "Grand-Est",
+                "IsNew": true,
+                "IsOversea": false,
+                "Departments": [
+                    {
+                        "Name": "Ardennes"
+                    },
+                    {
+                        "Name": "Aube"
+                    },
+                    {
+                        "Name": "Marne"
+                    },
+                    {
+                        "Name": "Haute-Marne"
+                    },
+                    {
+                        "Name": "Meurthe-et-Moselle"
+                    },
+                    {
+                        "Name": "Meuse"
+                    },
+                    {
+                        "Name": "Moselle"
+                    },
+                    {
+                        "Name": "Bas-Rhin"
+                    },
+                    {
+                        "Name": "Haut-Rhin"
+                    },
+                    {
+                        "Name": "Vosges"
+                    }
+                ]
+            },
+            {
+                "CodeInsee": 32,
+                "CodeISO": "FR-HDF",
+                "Name": "Hauts-de-France",
+                "IsNew": true,
+                "IsOversea": false,
+                "Departments": [
+                    {
+                        "Name": "Aisne"
+                    },
+                    {
+                        "Name": "Nord"
+                    },
+                    {
+                        "Name": "Oise"
+                    },
+                    {
+                        "Name": "Pas-de-Calais"
+                    },
+                    {
+                        "Name": "Somme"
+                    }
+                ]
+            },
+            {
+                "CodeInsee": 11,
+                "CodeISO": "FR-IDF",
+                "Name": "Île-de-France",
+                "IsNew": true,
+                "IsOversea": false,
+                "Departments": [
+                    {
+                        "Name" : "Paris"
+                    },
+                    {
+                        "Name" : "Seine-et-Marne"
+                    },
+                    {
+                        "Name" : "Yvelines"
+                    },
+                    {
+                        "Name" : "Essone"
+                    },
+                    {
+                        "Name" : "Haut-de-Seine"
+                    },
+                    {
+                        "Name" : "Seine-Saint-Denis"
+                    },
+                    {
+                        "Name" : "Val-de-Marne"
+                    },
+                    {
+                        "Name" : "Val-d'Oise"
+                    }
+                ]
+            },
+            {
+                "CodeInsee": 28,
+                "CodeISO": "FR-NOR",
+                "Name": "Normandie",
+                "IsNew": true,
+                "IsOversea": false,
+                "Departments": [
+                    {}
+                ]
+            },
+            {
+                "CodeInsee": 75,
+                "CodeISO": "FR-NAQ",
+                "Name": "Nouvelle-Acquitaine",
+                "IsNew": true,
+                "IsOversea": false,
+                "Departments": [
+                    {}
+                ]
+            },
+            {
+                "CodeInsee": 76,
+                "CodeISO": "FR-OCC",
+                "Name": "Occitanie",
+                "IsNew": true,
+                "IsOversea": false,
+                "Departments": [
+                    {}
+                ]
+            },
+            {
+                "CodeInsee": 52,
+                "CodeISO": "FR-PDL",
+                "Name": "Pays de la Loire",
+                "IsNew": true,
+                "IsOversea": false,
+                "Departments": [
+                    {}
+                ]
+            },
+            {
+                "CodeInsee": 93,
+                "CodeISO": "FR-PAC",
+                "Name": "Provence-Alpes-Côte d'Azur",
+                "IsNew": true,
+                "IsOversea": false,
+                "Departments": [
+                    {}
+                ]
+            },
+            {
+                "CodeInsee": 01,
+                "CodeISO": "FR-GP",
+                "Name": "Guadeloupe",
+                "IsNew": true,
+                "IsOversea": true,
+                "Departments": [
+                    {}
+                ]
+            },
+            {
+                "CodeInsee": 02,
+                "CodeISO": "FR-GF",
+                "Name": "Guyanne Française",
+                "IsNew": true,
+                "IsOversea": true,
+                "Departments": [
+                    {}
+                ]
+            },
+            {
+                "CodeInsee": 03,
+                "CodeISO": "FR-MQ",
+                "Name": "Martinique",
+                "IsNew": true,
+                "IsOversea": true,
+                "Departments": [
+                    {}
+                ]
+            },
+            {
+                "CodeInsee": 04,
+                "CodeISO": "FR-RE",
+                "Name": "Réunion",
+                "IsNew": true,
+                "IsOversea": true,
+                "Departments": [
+                    {}
+                ]
+            },
+            {
+                "CodeInsee": 06,
+                "CodeISO": "FR-YT",
+                "Name": "Mayontte",
+                "IsNew": true,
+                "IsOversea": true,
+                "Departments": [
+                    {}
+                ]
+            },
         ]
     }
 ]

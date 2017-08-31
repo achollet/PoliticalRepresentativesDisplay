@@ -11,14 +11,14 @@ namespace Base.DAL.Entities
         public int Id { get; set; }
 
         [Required]
-        public int Code { get; set; }
+        public int CodeInsee { get; set; }
         
         [Required]
         [MaxLength(250)]
         public string Name { get; set; }
         
-        [MaxLength(25)]
-        public string Acronym { get; set; }
+        [MaxLength(6)]
+        public string CodeIso { get; set; }
         
         [Required]
         public bool IsNew { get; set; }
