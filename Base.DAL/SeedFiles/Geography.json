@@ -1,0 +1,23 @@
+[
+    {
+        "CodeIso2": "FR",
+        "CodeIso3": "FRA",
+        "Name": "FRANCE",
+        "Regions": [
+            {
+                "Code": ,
+                "Name":,
+                "Acronym":,
+                "IsNew":,
+                "IsOversea":,
+                "Departments":
+                [
+                    {
+                        
+                    }
+                ]
+            },
+            {}
+        ]
+    }
+]
