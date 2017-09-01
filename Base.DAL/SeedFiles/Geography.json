@@ -12,43 +12,69 @@
                 "IsOversea": false,
                 "Departments": [
                     {
-                        "Name": "Ain"
+                        "Name": "Ain",
+                        "CodeIso" : "FR-01",
+                        "CodeInsee": "01" 
                     },
                     {
-                        "Name": "Allier"
+                        "Name": "Allier",
+                        "CodeIso" : "FR-03",
+                        "CodeInsee": "03"
                     },
                     {
-                        "Name": "Ardèche"
+                        "Name": "Ardèche",
+                        "CodeIso" : "FR-07",
+                        "CodeInsee": "07"
                     },
                     {
-                        "Name": "Cantal"
+                        "Name": "Cantal",
+                        "CodeIso" : "FR-15",
+                        "CodeInsee": "15"
                     },
                     {
-                        "Name": "Drôme"
+                        "Name": "Drôme",
+                        "CodeIso" : "FR-26",
+                        "CodeInsee": "26"
                     },
                     {
-                        "Name": "Isère"
+                        "Name": "Isère",
+                        "CodeIso" : "FR-38",
+                        "CodeInsee": "38"
                     },
                     {
-                        "Name": "Loire"
+                        "Name": "Loire",
+                        "CodeIso" : "FR-42",
+                        "CodeInsee": "42"
                     },
                     {
-                        "Name": "Haute-Loire"
+                        "Name": "Haute-Loire",
+                        "CodeIso" : "FR-43",
+                        "CodeInsee": "43"
                     },
                     {
-                        "Name": "Puy-de-Dôme"
+                        "Name": "Puy-de-Dôme",
+                        "CodeIso" : "FR-63",
+                        "CodeInsee": "63"
                     },
                     {
-                        "Name": "Rhône"
+                        "Name": "Rhône",
+                        "CodeIso" : "FR-69",
+                        "CodeInsee": "69D"
                     },
                     {
-                        "Name": "Lyon Métropole"
+                        "Name": "Lyon Métropole",
+                        "CodeIso" : "FR-69",
+                        "CodeInsee": "69M"
                     },
                     {
-                        "Name": "Savoie"
+                        "Name": "Savoie",
+                        "CodeIso" : "FR-73",
+                        "CodeInsee": "73"
                     },
                     {
-                        "Name": "Haute-Savoie"
+                        "Name": "Haute-Savoie",
+                        "CodeIso" : "FR-74",
+                        "CodeInsee": "74"
                     }
                 ]
             },
@@ -60,28 +86,44 @@
                 "IsOversea": false,
                 "Departments": [
                     {
-                        "Name": "Côte-d'Or"
+                        "Name": "Côte-d'Or",
+                        "CodeIso" : "FR-21",
+                        "CodeInsee": "21"
                     },
                     {
-                        "Name": "Doubs"
+                        "Name": "Doubs",
+                        "CodeIso" : "FR-25",
+                        "CodeInsee": "25"
                     },
                     {
-                        "Name": "Jura"
+                        "Name": "Jura",
+                        "CodeIso" : "FR-39",
+                        "CodeInsee": "39"
                     },
                     {
-                        "Name": "Nièvre"
+                        "Name": "Nièvre",
+                        "CodeIso" : "FR-58",
+                        "CodeInsee": "58"
                     },
                     {
-                        "Name": "Haute-Saône"
+                        "Name": "Haute-Saône",
+                        "CodeIso" : "FR-70",
+                        "CodeInsee": "70"
                     },
                     {
-                        "Name": "Sa$one-et-Loire"
+                        "Name": "Saône-et-Loire",
+                        "CodeIso" : "FR-71",
+                        "CodeInsee": "71"
                     },
                     {
-                        "Name": "Yonne"
+                        "Name": "Yonne",
+                        "CodeIso" : "FR-89",
+                        "CodeInsee": "89"
                     },
                     {
-                        "Name": "Territoire de Belfort"
+                        "Name": "Territoire de Belfort",
+                        "CodeIso" : "FR-90",
+                        "CodeInsee": "90"
                     }
                 ]
             },
@@ -93,16 +135,24 @@
                 "IsOversea": false,
                 "Departments": [
                     {
-                        "Name": "Côtes-d'Armor"
+                        "Name": "Côtes-d'Armor",
+                        "CodeIso" : "FR-22",
+                        "CodeInsee": "22"
                     },
                     {
-                        "Name": "Finistère"
+                        "Name": "Finistère",
+                        "CodeIso" : "FR-29",
+                        "CodeInsee": "29"
                     },
                     {
-                        "Name": "Ille-et-Vilaine"
+                        "Name": "Ille-et-Vilaine",
+                        "CodeIso" : "FR-35",
+                        "CodeInsee": "35"
                     },
                     {
-                        "Name": "Morbihan"
+                        "Name": "Morbihan",
+                        "CodeIso" : "FR-56",
+                        "CodeInsee": "56"
                     }
                 ]
             },
@@ -251,7 +301,21 @@
                 "IsNew": true,
                 "IsOversea": false,
                 "Departments": [
-                    {}
+                    {
+                        "Name" : "Calvados"
+                    },
+                    {
+                        "Name" : "Eure"
+                    },
+                    {
+                        "Name" : "Manche"
+                    },
+                    {
+                        "Name" : "Orne"
+                    },
+                    {
+                        "Name" : "Seine-Maritime"
+                    }
                 ]
             },
             {
@@ -261,7 +325,42 @@
                 "IsNew": true,
                 "IsOversea": false,
                 "Departments": [
-                    {}
+                    {
+                        "Name" : "Charente"
+                    },
+                    {
+                        "Name" : "Charente-Maritime"
+                    },
+                    {
+                        "Name" : "Corrèze"
+                    },
+                    {
+                        "Name" : "Creuse"
+                    },
+                    {
+                        "Name" : "Dordogne"
+                    },
+                    {
+                        "Name" : "Gironde"
+                    },
+                    {
+                        "Name" : "Landes"
+                    },
+                    {
+                        "Name" : "Lot-et-Garonne"
+                    },
+                    {
+                        "Name" : "Pyrénées-Atlantiques"
+                    },
+                    {
+                        "Name" : "Deux-Sèvres"
+                    },
+                    {
+                        "Name" : "Vienne"
+                    },
+                    {
+                        "Name" : "Haute-Vienne"
+                    }
                 ]
             },
             {
@@ -271,7 +370,45 @@
                 "IsNew": true,
                 "IsOversea": false,
                 "Departments": [
-                    {}
+                    {
+                        "Name" : "Arriège"
+                    },
+                    {
+                        "Name" : "Aude"
+                    },
+                    {
+                        "Name" : "Aveyron"
+                    },
+                    {
+                        "Name" : "Gard"
+                    },
+                    {
+                        "Name" : "Haute-Garonne"
+                    },
+                    {
+                        "Name" : "Gers"
+                    },
+                    {
+                        "Name" : "Hérault"
+                    },
+                    {
+                        "Name" : "Lot"
+                    },
+                    {
+                        "Name" : "Lozère"
+                    },
+                    {
+                        "Name" : "Hautes-Pyrénées"
+                    },
+                    {
+                        "Name" : "Pyrénées-Orientales"
+                    },
+                    {
+                        "Name" : "Tarn"
+                    },
+                    {
+                        "Name" : "Tarn-et-Garonne"
+                    }
                 ]
             },
             {
@@ -281,7 +418,21 @@
                 "IsNew": true,
                 "IsOversea": false,
                 "Departments": [
-                    {}
+                    {
+                        "Name" : "Loire-Atlantique"
+                    },
+                    {
+                        "Name" : "Maine-et-Loire"
+                    },
+                    {
+                        "Name" : "Mayenne"
+                    },
+                    {
+                        "Name" : "Sarthe"
+                    },
+                    {
+                        "Name" : "Vendée"
+                    }
                 ]
             },
             {
@@ -291,7 +442,21 @@
                 "IsNew": true,
                 "IsOversea": false,
                 "Departments": [
-                    {}
+                    {
+                        "Name" : "Alpes-de-Haute-Provence"
+                    },
+                    {
+                        "Name" : "Hautes-Alpes"
+                    },
+                    {
+                        "Name" : "Alpes-Maritimes"
+                    },
+                    {
+                        "Name" : "Bouche-du-Rhône"
+                    },
+                    {
+                        "Name" : "Var"
+                    }
                 ]
             },
             {
@@ -301,7 +466,9 @@
                 "IsNew": true,
                 "IsOversea": true,
                 "Departments": [
-                    {}
+                    {
+                        "Name" : "Guadeloupe"
+                    }
                 ]
             },
             {
@@ -311,7 +478,9 @@
                 "IsNew": true,
                 "IsOversea": true,
                 "Departments": [
-                    {}
+                    {
+                        "Name" : "Guyanne Française"
+                    }
                 ]
             },
             {
@@ -321,7 +490,9 @@
                 "IsNew": true,
                 "IsOversea": true,
                 "Departments": [
-                    {}
+                    {
+                        "Name" : "Martinique"
+                    }
                 ]
             },
             {
@@ -331,17 +502,21 @@
                 "IsNew": true,
                 "IsOversea": true,
                 "Departments": [
-                    {}
+                    {
+                        "Name" : "Réunion"
+                    }
                 ]
             },
             {
                 "CodeInsee": 06,
                 "CodeISO": "FR-YT",
-                "Name": "Mayontte",
+                "Name": "Mayotte",
                 "IsNew": true,
                 "IsOversea": true,
                 "Departments": [
-                    {}
+                    {
+                        "Name" : "Mayotte"
+                    }
                 ]
             },
         ]
