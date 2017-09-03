@@ -14,67 +14,106 @@
                     {
                         "Name": "Ain",
                         "CodeIso" : "FR-01",
-                        "CodeInsee": "01" 
+                        "CodeInsee": "01",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
                         "Name": "Allier",
                         "CodeIso" : "FR-03",
-                        "CodeInsee": "03"
+                        "CodeInsee": "03",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
                         "Name": "Ardèche",
                         "CodeIso" : "FR-07",
-                        "CodeInsee": "07"
+                        "CodeInsee": "07",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
                         "Name": "Cantal",
                         "CodeIso" : "FR-15",
-                        "CodeInsee": "15"
+                        "CodeInsee": "15",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
                         "Name": "Drôme",
                         "CodeIso" : "FR-26",
-                        "CodeInsee": "26"
+                        "CodeInsee": "26",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
                         "Name": "Isère",
                         "CodeIso" : "FR-38",
-                        "CodeInsee": "38"
+                        "CodeInsee": "38",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
                         "Name": "Loire",
                         "CodeIso" : "FR-42",
-                        "CodeInsee": "42"
+                        "CodeInsee": "42",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
                         "Name": "Haute-Loire",
                         "CodeIso" : "FR-43",
-                        "CodeInsee": "43"
+                        "CodeInsee": "43",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
                         "Name": "Puy-de-Dôme",
                         "CodeIso" : "FR-63",
-                        "CodeInsee": "63"
+                        "CodeInsee": "63",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
                         "Name": "Rhône",
                         "CodeIso" : "FR-69",
-                        "CodeInsee": "69D"
+                        "CodeInsee": "69D",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
                         "Name": "Lyon Métropole",
                         "CodeIso" : "FR-69",
-                        "CodeInsee": "69M"
+                        "CodeInsee": "69M",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
                         "Name": "Savoie",
                         "CodeIso" : "FR-73",
-                        "CodeInsee": "73"
+                        "CodeInsee": "73",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
                         "Name": "Haute-Savoie",
                         "CodeIso" : "FR-74",
-                        "CodeInsee": "74"
+                        "CodeInsee": "74",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     }
                 ]
             },
@@ -88,42 +127,66 @@
                     {
                         "Name": "Côte-d'Or",
                         "CodeIso" : "FR-21",
-                        "CodeInsee": "21"
+                        "CodeInsee": "21",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
                         "Name": "Doubs",
                         "CodeIso" : "FR-25",
-                        "CodeInsee": "25"
+                        "CodeInsee": "25",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
                         "Name": "Jura",
                         "CodeIso" : "FR-39",
-                        "CodeInsee": "39"
+                        "CodeInsee": "39",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
                         "Name": "Nièvre",
                         "CodeIso" : "FR-58",
-                        "CodeInsee": "58"
+                        "CodeInsee": "58",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
                         "Name": "Haute-Saône",
                         "CodeIso" : "FR-70",
-                        "CodeInsee": "70"
+                        "CodeInsee": "70",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
                         "Name": "Saône-et-Loire",
                         "CodeIso" : "FR-71",
-                        "CodeInsee": "71"
+                        "CodeInsee": "71",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
                         "Name": "Yonne",
                         "CodeIso" : "FR-89",
-                        "CodeInsee": "89"
+                        "CodeInsee": "89",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
                         "Name": "Territoire de Belfort",
                         "CodeIso" : "FR-90",
-                        "CodeInsee": "90"
+                        "CodeInsee": "90",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     }
                 ]
             },
@@ -137,22 +200,34 @@
                     {
                         "Name": "Côtes-d'Armor",
                         "CodeIso" : "FR-22",
-                        "CodeInsee": "22"
+                        "CodeInsee": "22",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
                         "Name": "Finistère",
                         "CodeIso" : "FR-29",
-                        "CodeInsee": "29"
+                        "CodeInsee": "29",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
                         "Name": "Ille-et-Vilaine",
                         "CodeIso" : "FR-35",
-                        "CodeInsee": "35"
+                        "CodeInsee": "35",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
                         "Name": "Morbihan",
                         "CodeIso" : "FR-56",
-                        "CodeInsee": "56"
+                        "CodeInsee": "56",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     }
                 ]
             },
@@ -164,22 +239,52 @@
                 "IsOversea": false,
                 "Departments": [
                     {
-                        "Name": "Cher"
+                        "Name": "Cher",
+                        "CodeIso" : "FR-18",
+                        "CodeInsee": "18",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
-                        "Name": "Eure-et-Loir"
+                        "Name": "Eure-et-Loir",
+                        "CodeIso" : "FR-28",
+                        "CodeInsee": "28",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
-                        "Name": "Indre"
+                        "Name": "Indre",
+                        "CodeIso" : "FR-36",
+                        "CodeInsee": "36",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
-                        "Name": "Indre-et-Loire"
+                        "Name": "Indre-et-Loire",
+                        "CodeIso" : "FR-37",
+                        "CodeInsee": "37",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
-                        "Name": "Loir-et-Cher"
+                        "Name": "Loir-et-Cher",
+                        "CodeIso" : "FR-41",
+                        "CodeInsee": "41",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
-                        "Name": "Loiret"
+                        "Name": "Loiret",
+                        "CodeIso" : "FR-45",
+                        "CodeInsee": "45",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     }
                 ]
             },
@@ -191,10 +296,20 @@
                 "IsOversea": false,
                 "Departments": [
                     {
-                        "Name": "Corse-du-Sud"
+                        "Name": "Corse-du-Sud",
+                        "CodeIso" : "FR-2A",
+                        "CodeInsee": "2A",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
-                        "Name": "Haute-Corse"
+                        "Name": "Haute-Corse",
+                        "CodeIso" : "FR-2B",
+                        "CodeInsee": "2B",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     }
                 ]
             },
@@ -206,34 +321,84 @@
                 "IsOversea": false,
                 "Departments": [
                     {
-                        "Name": "Ardennes"
+                        "Name": "Ardennes",
+                        "CodeIso" : "FR-08",
+                        "CodeInsee": "08",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
-                        "Name": "Aube"
+                        "Name": "Aube",
+                        "CodeIso" : "FR-10",
+                        "CodeInsee": "10",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
-                        "Name": "Marne"
+                        "Name": "Marne",
+                        "CodeIso" : "FR-51",
+                        "CodeInsee": "51",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
-                        "Name": "Haute-Marne"
+                        "Name": "Haute-Marne",
+                        "CodeIso" : "FR-52",
+                        "CodeInsee": "52",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
-                        "Name": "Meurthe-et-Moselle"
+                        "Name": "Meurthe-et-Moselle",
+                        "CodeIso" : "FR-54",
+                        "CodeInsee": "54",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
-                        "Name": "Meuse"
+                        "Name": "Meuse",
+                        "CodeIso" : "FR-55",
+                        "CodeInsee": "55",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
-                        "Name": "Moselle"
+                        "Name": "Moselle",
+                        "CodeIso" : "FR-57",
+                        "CodeInsee": "57",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
-                        "Name": "Bas-Rhin"
+                        "Name": "Bas-Rhin",
+                        "CodeIso" : "FR-67",
+                        "CodeInsee": "67",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
-                        "Name": "Haut-Rhin"
+                        "Name": "Haut-Rhin",
+                        "CodeIso" : "FR-68",
+                        "CodeInsee": "68",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
-                        "Name": "Vosges"
+                        "Name": "Vosges",
+                        "CodeIso" : "FR-88",
+                        "CodeInsee": "88",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     }
                 ]
             },
@@ -245,19 +410,44 @@
                 "IsOversea": false,
                 "Departments": [
                     {
-                        "Name": "Aisne"
+                        "Name": "Aisne",
+                        "CodeIso" : "FR-02",
+                        "CodeInsee": "02",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
-                        "Name": "Nord"
+                        "Name": "Nord",
+                        "CodeIso" : "FR-59",
+                        "CodeInsee": "59",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
-                        "Name": "Oise"
+                        "Name": "Oise",
+                        "CodeIso" : "FR-60",
+                        "CodeInsee": "60",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
-                        "Name": "Pas-de-Calais"
+                        "Name": "Pas-de-Calais",
+                        "CodeIso" : "FR-62",
+                        "CodeInsee": "62",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
-                        "Name": "Somme"
+                        "Name": "Somme",
+                        "CodeIso" : "FR-80",
+                        "CodeInsee": "80",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     }
                 ]
             },
@@ -269,28 +459,68 @@
                 "IsOversea": false,
                 "Departments": [
                     {
-                        "Name" : "Paris"
+                        "Name" : "Paris",
+                        "CodeIso" : "FR-75",
+                        "CodeInsee": "75",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
-                        "Name" : "Seine-et-Marne"
+                        "Name" : "Seine-et-Marne",
+                        "CodeIso" : "FR-77",
+                        "CodeInsee": "2B",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
-                        "Name" : "Yvelines"
+                        "Name" : "Yvelines",
+                        "CodeIso" : "FR-78",
+                        "CodeInsee": "78",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
-                        "Name" : "Essone"
+                        "Name" : "Essone",
+                        "CodeIso" : "FR-91",
+                        "CodeInsee": "91",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
-                        "Name" : "Haut-de-Seine"
+                        "Name" : "Haut-de-Seine",
+                        "CodeIso" : "FR-92",
+                        "CodeInsee": "92",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
-                        "Name" : "Seine-Saint-Denis"
+                        "Name" : "Seine-Saint-Denis",
+                        "CodeIso" : "FR-93",
+                        "CodeInsee": "93",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
-                        "Name" : "Val-de-Marne"
+                        "Name" : "Val-de-Marne",
+                        "CodeIso" : "FR-94",
+                        "CodeInsee": "94",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     },
                     {
-                        "Name" : "Val-d'Oise"
+                        "Name" : "Val-d'Oise",
+                        "CodeIso" : "FR-95",
+                        "CodeInsee": "95",
+                        "Cantons":[],
+                        "Constituencies":[],
+                        "Towns":[]
                     }
                 ]
             },
