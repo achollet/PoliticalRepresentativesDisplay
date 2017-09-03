@@ -13,107 +13,94 @@
                 "Departments": [
                     {
                         "Name": "Ain",
-                        "CodeIso" : "FR-01",
+                        "CodeIso": "FR-01",
                         "CodeInsee": "01",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Allier",
-                        "CodeIso" : "FR-03",
+                        "CodeIso": "FR-03",
                         "CodeInsee": "03",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "Constituencies": [],
+                        "Towns": []
                     },
                     {
                         "Name": "Ardèche",
-                        "CodeIso" : "FR-07",
+                        "CodeIso": "FR-07",
                         "CodeInsee": "07",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Cantal",
-                        "CodeIso" : "FR-15",
+                        "CodeIso": "FR-15",
                         "CodeInsee": "15",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Drôme",
-                        "CodeIso" : "FR-26",
+                        "CodeIso": "FR-26",
                         "CodeInsee": "26",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Isère",
-                        "CodeIso" : "FR-38",
+                        "CodeIso": "FR-38",
                         "CodeInsee": "38",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Loire",
-                        "CodeIso" : "FR-42",
+                        "CodeIso": "FR-42",
                         "CodeInsee": "42",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Haute-Loire",
-                        "CodeIso" : "FR-43",
+                        "CodeIso": "FR-43",
                         "CodeInsee": "43",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Puy-de-Dôme",
-                        "CodeIso" : "FR-63",
+                        "CodeIso": "FR-63",
                         "CodeInsee": "63",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Rhône",
-                        "CodeIso" : "FR-69",
+                        "CodeIso": "FR-69",
                         "CodeInsee": "69D",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Lyon Métropole",
-                        "CodeIso" : "FR-69",
+                        "CodeIso": "FR-69",
                         "CodeInsee": "69M",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Savoie",
-                        "CodeIso" : "FR-73",
+                        "CodeIso": "FR-73",
                         "CodeInsee": "73",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Haute-Savoie",
-                        "CodeIso" : "FR-74",
+                        "CodeIso": "FR-74",
                         "CodeInsee": "74",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     }
                 ]
             },
@@ -126,67 +113,59 @@
                 "Departments": [
                     {
                         "Name": "Côte-d'Or",
-                        "CodeIso" : "FR-21",
+                        "CodeIso": "FR-21",
                         "CodeInsee": "21",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Doubs",
-                        "CodeIso" : "FR-25",
+                        "CodeIso": "FR-25",
                         "CodeInsee": "25",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Jura",
-                        "CodeIso" : "FR-39",
+                        "CodeIso": "FR-39",
                         "CodeInsee": "39",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Nièvre",
-                        "CodeIso" : "FR-58",
+                        "CodeIso": "FR-58",
                         "CodeInsee": "58",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Haute-Saône",
-                        "CodeIso" : "FR-70",
+                        "CodeIso": "FR-70",
                         "CodeInsee": "70",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Saône-et-Loire",
-                        "CodeIso" : "FR-71",
+                        "CodeIso": "FR-71",
                         "CodeInsee": "71",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Yonne",
-                        "CodeIso" : "FR-89",
+                        "CodeIso": "FR-89",
                         "CodeInsee": "89",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Territoire de Belfort",
-                        "CodeIso" : "FR-90",
+                        "CodeIso": "FR-90",
                         "CodeInsee": "90",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     }
                 ]
             },
@@ -199,35 +178,31 @@
                 "Departments": [
                     {
                         "Name": "Côtes-d'Armor",
-                        "CodeIso" : "FR-22",
+                        "CodeIso": "FR-22",
                         "CodeInsee": "22",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Finistère",
-                        "CodeIso" : "FR-29",
+                        "CodeIso": "FR-29",
                         "CodeInsee": "29",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Ille-et-Vilaine",
-                        "CodeIso" : "FR-35",
+                        "CodeIso": "FR-35",
                         "CodeInsee": "35",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Morbihan",
-                        "CodeIso" : "FR-56",
+                        "CodeIso": "FR-56",
                         "CodeInsee": "56",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     }
                 ]
             },
@@ -240,51 +215,45 @@
                 "Departments": [
                     {
                         "Name": "Cher",
-                        "CodeIso" : "FR-18",
+                        "CodeIso": "FR-18",
                         "CodeInsee": "18",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Eure-et-Loir",
-                        "CodeIso" : "FR-28",
+                        "CodeIso": "FR-28",
                         "CodeInsee": "28",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Indre",
-                        "CodeIso" : "FR-36",
+                        "CodeIso": "FR-36",
                         "CodeInsee": "36",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Indre-et-Loire",
-                        "CodeIso" : "FR-37",
+                        "CodeIso": "FR-37",
                         "CodeInsee": "37",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Loir-et-Cher",
-                        "CodeIso" : "FR-41",
+                        "CodeIso": "FR-41",
                         "CodeInsee": "41",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Loiret",
-                        "CodeIso" : "FR-45",
+                        "CodeIso": "FR-45",
                         "CodeInsee": "45",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     }
                 ]
             },
@@ -297,19 +266,17 @@
                 "Departments": [
                     {
                         "Name": "Corse-du-Sud",
-                        "CodeIso" : "FR-2A",
+                        "CodeIso": "FR-2A",
                         "CodeInsee": "2A",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Haute-Corse",
-                        "CodeIso" : "FR-2B",
+                        "CodeIso": "FR-2B",
                         "CodeInsee": "2B",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     }
                 ]
             },
@@ -322,83 +289,73 @@
                 "Departments": [
                     {
                         "Name": "Ardennes",
-                        "CodeIso" : "FR-08",
+                        "CodeIso": "FR-08",
                         "CodeInsee": "08",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Aube",
-                        "CodeIso" : "FR-10",
+                        "CodeIso": "FR-10",
                         "CodeInsee": "10",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Marne",
-                        "CodeIso" : "FR-51",
+                        "CodeIso": "FR-51",
                         "CodeInsee": "51",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Haute-Marne",
-                        "CodeIso" : "FR-52",
+                        "CodeIso": "FR-52",
                         "CodeInsee": "52",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Meurthe-et-Moselle",
-                        "CodeIso" : "FR-54",
+                        "CodeIso": "FR-54",
                         "CodeInsee": "54",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Meuse",
-                        "CodeIso" : "FR-55",
+                        "CodeIso": "FR-55",
                         "CodeInsee": "55",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Moselle",
-                        "CodeIso" : "FR-57",
+                        "CodeIso": "FR-57",
                         "CodeInsee": "57",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Bas-Rhin",
-                        "CodeIso" : "FR-67",
+                        "CodeIso": "FR-67",
                         "CodeInsee": "67",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Haut-Rhin",
-                        "CodeIso" : "FR-68",
+                        "CodeIso": "FR-68",
                         "CodeInsee": "68",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Vosges",
-                        "CodeIso" : "FR-88",
+                        "CodeIso": "FR-88",
                         "CodeInsee": "88",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     }
                 ]
             },
@@ -411,43 +368,38 @@
                 "Departments": [
                     {
                         "Name": "Aisne",
-                        "CodeIso" : "FR-02",
+                        "CodeIso": "FR-02",
                         "CodeInsee": "02",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Nord",
-                        "CodeIso" : "FR-59",
+                        "CodeIso": "FR-59",
                         "CodeInsee": "59",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Oise",
-                        "CodeIso" : "FR-60",
+                        "CodeIso": "FR-60",
                         "CodeInsee": "60",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Pas-de-Calais",
-                        "CodeIso" : "FR-62",
+                        "CodeIso": "FR-62",
                         "CodeInsee": "62",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
                         "Name": "Somme",
-                        "CodeIso" : "FR-80",
+                        "CodeIso": "FR-80",
                         "CodeInsee": "80",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     }
                 ]
             },
@@ -459,68 +411,60 @@
                 "IsOversea": false,
                 "Departments": [
                     {
-                        "Name" : "Paris",
-                        "CodeIso" : "FR-75",
+                        "Name": "Paris",
+                        "CodeIso": "FR-75",
                         "CodeInsee": "75",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
-                        "Name" : "Seine-et-Marne",
-                        "CodeIso" : "FR-77",
+                        "Name": "Seine-et-Marne",
+                        "CodeIso": "FR-77",
                         "CodeInsee": "2B",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
-                        "Name" : "Yvelines",
-                        "CodeIso" : "FR-78",
+                        "Name": "Yvelines",
+                        "CodeIso": "FR-78",
                         "CodeInsee": "78",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
-                        "Name" : "Essone",
-                        "CodeIso" : "FR-91",
+                        "Name": "Essone",
+                        "CodeIso": "FR-91",
                         "CodeInsee": "91",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
-                        "Name" : "Haut-de-Seine",
-                        "CodeIso" : "FR-92",
+                        "Name": "Haut-de-Seine",
+                        "CodeIso": "FR-92",
                         "CodeInsee": "92",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
-                        "Name" : "Seine-Saint-Denis",
-                        "CodeIso" : "FR-93",
+                        "Name": "Seine-Saint-Denis",
+                        "CodeIso": "FR-93",
                         "CodeInsee": "93",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
-                        "Name" : "Val-de-Marne",
-                        "CodeIso" : "FR-94",
+                        "Name": "Val-de-Marne",
+                        "CodeIso": "FR-94",
                         "CodeInsee": "94",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
-                        "Name" : "Val-d'Oise",
-                        "CodeIso" : "FR-95",
+                        "Name": "Val-d'Oise",
+                        "CodeIso": "FR-95",
                         "CodeInsee": "95",
-                        "Cantons":[],
-                        "Constituencies":[],
-                        "Towns":[]
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     }
                 ]
             },
@@ -532,19 +476,41 @@
                 "IsOversea": false,
                 "Departments": [
                     {
-                        "Name" : "Calvados"
+                        "Name": "Calvados",
+                        "CodeIso": "FR-14",
+                        "CodeInsee": "14",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
-                        "Name" : "Eure"
+                        "Name": "Eure",
+                        "CodeIso": "FR-27",
+                        "CodeInsee": "27",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
-                        "Name" : "Manche"
+                        "Name": "Manche",
+                        "CodeIso": "FR-50",
+                        "CodeInsee": "50",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
                     },
                     {
-                        "Name" : "Orne"
+                        "Name": "Orne",
+                        "CodeIso": "FR-61",
+                        "CodeInsee": "61",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     },
                     {
-                        "Name" : "Seine-Maritime"
+                        "Name": "Seine-Maritime",
+                        "CodeIso": "FR-76",
+                        "CodeInsee": "76",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     }
                 ]
             },
@@ -556,40 +522,100 @@
                 "IsOversea": false,
                 "Departments": [
                     {
-                        "Name" : "Charente"
+                        "Name": "Charente",
+                        "CodeIso": "FR-16",
+                        "CodeInsee": "16",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     },
                     {
-                        "Name" : "Charente-Maritime"
+                        "Name": "Charente-Maritime",
+                        "CodeIso": "FR-17",
+                        "CodeInsee": "17",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     },
                     {
-                        "Name" : "Corrèze"
+                        "Name": "Corrèze",
+                        "CodeIso": "FR-19",
+                        "CodeInsee": "19",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     },
                     {
-                        "Name" : "Creuse"
+                        "Name": "Creuse",
+                        "CodeIso": "FR-23",
+                        "CodeInsee": "23",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     },
                     {
-                        "Name" : "Dordogne"
+                        "Name": "Dordogne",
+                        "CodeIso": "FR-24",
+                        "CodeInsee": "24",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     },
                     {
-                        "Name" : "Gironde"
+                        "Name": "Gironde",
+                        "CodeIso": "FR-33",
+                        "CodeInsee": "33",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     },
                     {
-                        "Name" : "Landes"
+                        "Name": "Landes",
+                        "CodeIso": "FR-40",
+                        "CodeInsee": "40",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     },
                     {
-                        "Name" : "Lot-et-Garonne"
+                        "Name": "Lot-et-Garonne",
+                        "CodeIso": "FR-47",
+                        "CodeInsee": "47",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     },
                     {
-                        "Name" : "Pyrénées-Atlantiques"
+                        "Name": "Pyrénées-Atlantiques",
+                        "CodeIso": "FR-64",
+                        "CodeInsee": "64",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     },
                     {
-                        "Name" : "Deux-Sèvres"
+                        "Name": "Deux-Sèvres",
+                        "CodeIso": "FR-79",
+                        "CodeInsee": "79",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     },
                     {
-                        "Name" : "Vienne"
+                        "Name": "Vienne",
+                        "CodeIso": "FR-86",
+                        "CodeInsee": "86",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     },
                     {
-                        "Name" : "Haute-Vienne"
+                        "Name": "Haute-Vienne",
+                        "CodeIso": "FR-87",
+                        "CodeInsee": "87",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     }
                 ]
             },
@@ -601,43 +627,108 @@
                 "IsOversea": false,
                 "Departments": [
                     {
-                        "Name" : "Arriège"
+                        "Name": "Arriège",
+                        "CodeIso": "FR-09",
+                        "CodeInsee": "09",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     },
                     {
-                        "Name" : "Aude"
+                        "Name": "Aude",
+                        "CodeIso": "FR-11",
+                        "CodeInsee": "11",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     },
                     {
-                        "Name" : "Aveyron"
+                        "Name": "Aveyron",
+                        "CodeIso": "FR-12",
+                        "CodeInsee": "12",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     },
                     {
-                        "Name" : "Gard"
+                        "Name": "Gard",
+                        "CodeIso": "FR-30",
+                        "CodeInsee": "30",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     },
                     {
-                        "Name" : "Haute-Garonne"
+                        "Name": "Haute-Garonne",
+                        "CodeIso": "FR-31",
+                        "CodeInsee": "31",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     },
                     {
-                        "Name" : "Gers"
+                        "Name": "Gers",
+                        "CodeIso": "FR-32",
+                        "CodeInsee": "32",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     },
                     {
-                        "Name" : "Hérault"
+                        "Name": "Hérault",
+                        "CodeIso": "FR-34",
+                        "CodeInsee": "34",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     },
                     {
-                        "Name" : "Lot"
+                        "Name": "Lot",
+                        "CodeIso": "FR-46",
+                        "CodeInsee": "46",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     },
                     {
-                        "Name" : "Lozère"
+                        "Name": "Lozère",
+                        "CodeIso": "FR-48",
+                        "CodeInsee": "48",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     },
                     {
-                        "Name" : "Hautes-Pyrénées"
+                        "Name": "Hautes-Pyrénées",
+                        "CodeIso": "FR-65",
+                        "CodeInsee": "65",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
+                    },
+^                    {
+                        "Name": "Pyrénées-Orientales",
+                        "CodeIso": "FR-66",
+                        "CodeInsee": "66",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     },
                     {
-                        "Name" : "Pyrénées-Orientales"
+                        "Name": "Tarn",
+                        "CodeIso": "FR-81",
+                        "CodeInsee": "81",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     },
                     {
-                        "Name" : "Tarn"
-                    },
-                    {
-                        "Name" : "Tarn-et-Garonne"
+                        "Name": "Tarn-et-Garonne",
+                        "CodeIso": "FR-82",
+                        "CodeInsee": "82",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     }
                 ]
             },
@@ -649,19 +740,44 @@
                 "IsOversea": false,
                 "Departments": [
                     {
-                        "Name" : "Loire-Atlantique"
+                        "Name": "Loire-Atlantique",
+                        "CodeIso": "FR-44",
+                        "CodeInsee": "44",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     },
                     {
-                        "Name" : "Maine-et-Loire"
+                        "Name": "Maine-et-Loire",
+                        "CodeIso": "FR-49",
+                        "CodeInsee": "49",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     },
                     {
-                        "Name" : "Mayenne"
+                        "Name": "Mayenne",
+                        "CodeIso": "FR-53",
+                        "CodeInsee": "53",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     },
                     {
-                        "Name" : "Sarthe"
+                        "Name": "Sarthe",
+                        "CodeIso": "FR-72",
+                        "CodeInsee": "95",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     },
                     {
-                        "Name" : "Vendée"
+                        "Name": "Vendée",
+                        "CodeIso": "FR-95",
+                        "CodeInsee": "85",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     }
                 ]
             },
@@ -673,19 +789,52 @@
                 "IsOversea": false,
                 "Departments": [
                     {
-                        "Name" : "Alpes-de-Haute-Provence"
+                        "Name": "Alpes-de-Haute-Provence",
+                        "CodeIso": "FR-04",
+                        "CodeInsee": "04",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     },
                     {
-                        "Name" : "Hautes-Alpes"
+                        "Name": "Hautes-Alpes",
+                        "CodeIso": "FR-05",
+                        "CodeInsee": "05",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     },
                     {
-                        "Name" : "Alpes-Maritimes"
+                        "Name": "Alpes-Maritimes",
+                        "CodeIso": "FR-06",
+                        "CodeInsee": "06",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     },
                     {
-                        "Name" : "Bouche-du-Rhône"
+                        "Name": "Bouche-du-Rhône",
+                        "CodeIso": "FR-13",
+                        "CodeInsee": "13",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     },
                     {
-                        "Name" : "Var"
+                        "Name": "Var",
+                        "CodeIso": "FR-83",
+                        "CodeInsee": "83",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
+                    },
+                    {
+                        "Name": "Vaucluse",
+                        "CodeIso": "FR-84",
+                        "CodeInsee": "84",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     }
                 ]
             },
@@ -697,7 +846,12 @@
                 "IsOversea": true,
                 "Departments": [
                     {
-                        "Name" : "Guadeloupe"
+                        "Name": "Guadeloupe",
+                        "CodeIso": "GLP",
+                        "CodeInsee": "971",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     }
                 ]
             },
@@ -709,7 +863,12 @@
                 "IsOversea": true,
                 "Departments": [
                     {
-                        "Name" : "Guyanne Française"
+                        "Name": "Guyanne Française",
+                        "CodeIso": "GUF",
+                        "CodeInsee": "973",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     }
                 ]
             },
@@ -721,7 +880,12 @@
                 "IsOversea": true,
                 "Departments": [
                     {
-                        "Name" : "Martinique"
+                        "Name": "Martinique",
+                        "CodeIso": "MTQ",
+                        "CodeInsee": "972",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     }
                 ]
             },
@@ -733,7 +897,12 @@
                 "IsOversea": true,
                 "Departments": [
                     {
-                        "Name" : "Réunion"
+                        "Name": "Réunion",
+                        "CodeIso": "REU",
+                        "CodeInsee": "974",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     }
                 ]
             },
@@ -745,7 +914,12 @@
                 "IsOversea": true,
                 "Departments": [
                     {
-                        "Name" : "Mayotte"
+                        "Name": "Mayotte",
+                        "CodeIso": "MYT",
+                        "CodeInsee": "976",
+                        "NumberOfConstituencies" : 0,
+                        "Districts": []
+
                     }
                 ]
             },

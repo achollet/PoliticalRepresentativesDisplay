@@ -22,10 +22,11 @@ namespace Base.DAL.Entities
         public string Name { get; set; }
         
         [Required]
+        public int NumberOfConstituencies { get; set; }
+
+        [Required]
         [ForeignKey("RegionId")]
         public int RegionId { get; set; }
         public IEnumerable<District> Districts { get; set; }
-        public IEnumerable<Constituency> Constituencies { get; set; }
-        public IEnumerable<Town> Towns { get; set; }
     }
 }
