@@ -11,6 +11,9 @@ namespace Base.DAL.Entities
         public int Id { get; set; }
 
         [Required]
+        public int DecretNumber { get; set; }
+
+        [Required]
         public string Label { get; set; }
         
         [Required]

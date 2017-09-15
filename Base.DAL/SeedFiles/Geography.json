@@ -15,15 +15,137 @@
                         "Name": "Ain",
                         "CodeIso": "FR-01",
                         "CodeInsee": "01",
-                        "NumberOfConstituencies" : 0,
-                        "Districts": []
+                        "NumberOfConstituencies" : 5,
+                        "Districts": [
+                            {
+                                "DecretNumber":1,
+                                "Name":"Ambérieu-en-Bugey",
+                                "Towns":[]
+                            },
+                            {
+                                "DecretNumber":2,
+                                "Name":"Attignat",
+                                "Towns":[]
+                            },
+                            {
+                                "DecretNumber":3,
+                                "Name":"Bellegrade-sur-Valserine",
+                                "Towns":[]
+                            },
+                            {
+                                "DecretNumber":4,
+                                "Name":"Belley",
+                                "Towns":[]
+                            },
+                            {
+                                "DecretNumber":5,
+                                "Name":"Bourg-en-Bresse-1",
+                                "Towns":[]
+                            },
+                            {
+                                "DecretNumber":6,
+                                "Name":"Bourg-en-Bresse-2",
+                                "Towns":[]
+                            },
+                            {
+                                "DecretNumber":7,
+                                "Name":"Ceyzériat",
+                                "Towns":[]
+                            },
+                            {
+                                "DecretNumber":8,
+                                "Name":"Châtillon-sur-Chalaronne",
+                                "Towns":[]
+                            },
+                            {
+                                "DecretNumber":9,
+                                "Name":"Gex",
+                                "Towns":[]
+                            },
+                            {
+                                "DecretNumber":10,
+                                "Name":"Hauteville-Lompnes",
+                                "Towns":[]
+                            },
+                            {
+                                "DecretNumber":11,
+                                "Name":"Lagnieu",
+                                "Towns":[]
+                            },
+                            {
+                                "DecretNumber":12,
+                                "Name":"Meximieux",
+                                "Towns":[]
+                            },
+                            {
+                                "DecretNumber":13,
+                                "Name":"Miribel",
+                                "Towns":[]
+                            },
+                            {
+                                "DecretNumber":14,
+                                "Name":"Nantua",
+                                "Towns":[]
+                            },
+                            {
+                                "DecretNumber":15,
+                                "Name":"Oyonnax",
+                                "Towns":[]
+                            },
+                            {
+                                "DecretNumber":16,
+                                "Name":"Pont-d'Ain",
+                                "Towns":[]
+                            },
+                            {
+                                "DecretNumber":17,
+                                "Name":"Replonges",
+                                "Towns":[]
+                            },
+                            {
+                                "DecretNumber":18,
+                                "Name":"Saint-Etienne-du-Bois",
+                                "Towns":[]
+                            },
+                            {
+                                "DecretNumber":19,
+                                "Name":"Saint-Genis-Pouilly",
+                                "Towns":[]
+                            },
+                            {
+                                "DecretNumber":20,
+                                "Name":"Thoiry",
+                                "Towns":[]
+                            },
+                            {
+                                "DecretNumber":21,
+                                "Name":"Trévoux",
+                                "Towns":[]
+                            },
+                            {
+                                "DecretNumber":22,
+                                "Name":"Villars-les-Dombes",
+                                "Towns":[]
+                            },
+                            {
+                                "DecretNumber":23,
+                                "Name":"Vonnas",
+                                "Towns":[]
+                            }
+                        ]
                     },
                     {
                         "Name": "Allier",
                         "CodeIso": "FR-03",
                         "CodeInsee": "03",
-                        "Constituencies": [],
-                        "Towns": []
+                        "NumberOfConstituencies" : 5,
+                        "Districts": [
+                            {
+                                "DecretNumber":1,
+                                "Name":"",
+                                "Towns":[]
+                            }
+                        ]
                     },
                     {
                         "Name": "Ardèche",
@@ -704,7 +826,6 @@
                         "CodeInsee": "65",
                         "NumberOfConstituencies" : 0,
                         "Districts": []
-
                     },
 ^                    {
                         "Name": "Pyrénées-Orientales",
@@ -712,7 +833,6 @@
                         "CodeInsee": "66",
                         "NumberOfConstituencies" : 0,
                         "Districts": []
-
                     },
                     {
                         "Name": "Tarn",
